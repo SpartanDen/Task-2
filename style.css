@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+    color: red;
+}
+
+#para {
+    color: green;
+    font-size: 1.2em;
+}
+
+ul li span {
+    color: red;
+    font-style: italic;
+}
